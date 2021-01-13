@@ -1,0 +1,2 @@
+# thumbnailClickbait
+clickbait thumbnail detection
